@@ -5,7 +5,7 @@ Desenvolvedor Front-End
 </h2>
 
 <p align="left"> 
-Atualmente como Desenvolvedor Front End Pleno Laudo Laboratorio.
+Atualmente como Desenvolvedor Front End Pleno.
 </p>
 
 <p align="left">
