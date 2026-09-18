@@ -1,19 +1,19 @@
 <h1 align="left">Lucas Carlos 👋</h1>
 
 <h3 align="left">
-Software Engineer • Full Stack • Front-End Specialist
+Software Engineer | Full Stack Developer
 </h3>
 
 <p align="left">
-Desenvolvedor de software com sólida experiência em <strong>Front-End</strong> e atuação atual em todo o ciclo de desenvolvimento de aplicações, passando por <strong>Back-End, APIs, bancos de dados, infraestrutura, Cloud, automação e IA</strong>.
+Desenvolvedor de software com experiência sólida em <strong>Front-End</strong> e atuação em diferentes camadas de aplicações modernas, incluindo <strong>Back-End, APIs, bancos de dados, infraestrutura, Cloud, automação e Inteligência Artificial</strong>.
 </p>
 
 <p align="left">
-Desde 2020 trabalho principalmente com o ecossistema <strong>React e TypeScript</strong>, desenvolvendo aplicações de diferentes portes e arquiteturas, interfaces complexas, sistemas orientados a mapas e geolocalização, integrações com APIs e aplicações com grande volume de regras de negócio.
+Desde 2020 trabalho principalmente com <strong>React e TypeScript</strong>, desenvolvendo aplicações de diferentes portes e arquiteturas, interfaces complexas, plataformas orientadas a mapas e geolocalização, integrações com APIs e sistemas com regras de negócio extensas.
 </p>
 
 <p align="left">
-Nos últimos anos, meu escopo passou a ir além do navegador: hoje também desenvolvo e mantenho serviços Back-End, APIs, bancos de dados, containers, pipelines de CI/CD e infraestrutura Cloud, acompanhando aplicações da implementação ao ambiente de produção.
+Com o tempo, minha atuação se expandiu para além do Front-End. Hoje trabalho também com desenvolvimento de serviços e APIs, processamento assíncrono, bancos de dados, containers, CI/CD, servidores Linux e infraestrutura Cloud, participando do ciclo completo das aplicações, do desenvolvimento à produção.
 </p>
 
 <h2>🛠️ Stack & Tecnologias</h2>
@@ -27,12 +27,12 @@ React • TypeScript • JavaScript • Next.js • Vite
 
 <p>
 <strong>Estado & Data Fetching</strong><br>
-TanStack Query • Zustand • Redux
+TanStack Query • Zustand • Redux • Context API
 </p>
 
 <p>
 <strong>Arquitetura</strong><br>
-Feature-First Architecture • Componentização • Hooks • Context API • Design Systems • Componentes reutilizáveis
+Feature-First Architecture • Componentização • Custom Hooks • Design Systems • Componentes reutilizáveis
 </p>
 
 <p>
@@ -48,13 +48,29 @@ Google Maps API • Mapbox • ArcGIS • Leaflet • Geolocalização • Visua
 <h3>⚙️ Back-End & APIs</h3>
 
 <p>
-Python • Django • Django REST Framework • FastAPI • REST APIs • Webhooks • Autenticação • Integrações entre sistemas
+<strong>Linguagens</strong><br>
+Python • Go (Golang) • JavaScript • TypeScript
+</p>
+
+<p>
+<strong>Frameworks & Ecossistema</strong><br>
+Django • Django REST Framework • FastAPI • Gin • GORM
+</p>
+
+<p>
+<strong>APIs & Serviços</strong><br>
+REST APIs • Webhooks • Autenticação e autorização • Integrações entre sistemas • Serviços assíncronos • Background Jobs
+</p>
+
+<p>
+<strong>Arquitetura & Desenvolvimento</strong><br>
+APIs modulares • Separação de responsabilidades • Services • Repositories • ORMs • Middleware • Integração com serviços externos
 </p>
 
 <h3>🗄️ Dados & Processamento</h3>
 
 <p>
-PostgreSQL • Redis • Celery • Processamento assíncrono • Filas e workers
+PostgreSQL • Redis • GORM • Django ORM • SQLAlchemy • Celery • Filas • Workers • Processamento assíncrono
 </p>
 
 <h3>🐳 DevOps & Infraestrutura</h3>
@@ -64,39 +80,39 @@ Docker • Docker Compose • Linux • Nginx • GitHub Actions • CI/CD • S
 </p>
 
 <p>
-Deploy e manutenção de aplicações • Gerenciamento de containers • Troubleshooting • Administração de ambientes Linux
+Deploy e manutenção de aplicações • Gerenciamento de containers • Troubleshooting • Logs e diagnóstico • Administração de ambientes Linux
 </p>
 
 <h3>☁️ Cloud</h3>
 
 <p>
-Oracle Cloud Infrastructure (OCI) • Compute • Object Storage • API Gateway • IAM • Networking • Bancos de dados em Cloud
+Oracle Cloud Infrastructure (OCI) • Compute • Object Storage • API Gateway • IAM • Networking • Cloud Databases
 </p>
 
 <h3>🔄 Integrações & Automação</h3>
 
 <p>
-n8n • Webhooks • APIs REST • Integrações entre serviços • Automação de processos
+n8n • Webhooks • REST APIs • Integrações entre serviços • Automação de processos • Jobs e workflows
 </p>
 
 <h3>🤖 IA & LLMs</h3>
 
 <p>
-LLMs • Ollama • vLLM • Open WebUI • NVIDIA DGX Spark • Execução e infraestrutura para modelos locais
+LLMs • Ollama • vLLM • Open WebUI • NVIDIA DGX Spark • Inferência local • Infraestrutura para modelos de IA
 </p>
 
-<h2>💻 O que faço hoje</h2>
+<h2>💻 Atuação atual</h2>
 
 <p>
-Atuo em aplicações que envolvem desde <strong>interfaces e arquiteturas Front-End</strong> até <strong>APIs, processamento assíncrono, bancos de dados e infraestrutura</strong>.
-</p>
-
-<p>
-No dia a dia isso significa desenvolver funcionalidades, integrar sistemas, investigar problemas em produção, trabalhar com containers e servidores Linux, manter pipelines de deploy e administrar serviços em Cloud.
+Atualmente trabalho em diferentes partes do ciclo de desenvolvimento de software, desde <strong>arquiteturas e interfaces Front-End</strong> até <strong>APIs, serviços Back-End, bancos de dados e infraestrutura</strong>.
 </p>
 
 <p>
-Também venho trabalhando com infraestrutura para <strong>Inteligência Artificial e LLMs locais</strong>, explorando execução de modelos, servidores de inferência e integração dessas ferramentas ao fluxo de desenvolvimento.
+Isso inclui desenvolvimento de funcionalidades, construção e integração de APIs, processamento assíncrono, investigação de problemas em produção, administração de containers e servidores Linux, pipelines de CI/CD e serviços em Cloud.
+</p>
+
+<p>
+Também trabalho com infraestrutura para <strong>Inteligência Artificial e LLMs locais</strong>, incluindo execução de modelos, servidores de inferência e integração dessas ferramentas aos ambientes e fluxos de desenvolvimento.
 </p>
 
 <h2>📫 Contato</h2>
