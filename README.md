@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer • Full Stack Developer</h3>
 
 <p align="center">
-  Front-End • Back-End • Cloud • DevOps • Automação • IA
+  Front-End • Back-End • APIs • Cloud • DevOps • Automação • IA
 </p>
 
 <p align="center">
@@ -22,77 +22,97 @@
 
 Sou desenvolvedor de software e trabalho profissionalmente com desenvolvimento desde **2020**.
 
-Minha base é o **Front-End**, principalmente no ecossistema **React e TypeScript**, área em que acumulei experiência construindo aplicações complexas, arquiteturas escaláveis, sistemas com grande volume de regras de negócio e soluções baseadas em **mapas e geolocalização**.
+Minha base é o **Front-End**, principalmente no ecossistema **React e TypeScript**, área em que acumulei experiência desenvolvendo aplicações de diferentes portes, interfaces complexas, arquiteturas escaláveis, sistemas com grande volume de regras de negócio e soluções baseadas em **mapas e geolocalização**.
 
-Nos últimos anos, minha atuação se expandiu para praticamente todo o ciclo de uma aplicação. Hoje também trabalho com **Back-End, APIs, bancos de dados, processamento assíncrono, containers, infraestrutura, Cloud, CI/CD, automações e IA**.
+Ao longo dos últimos anos, minha atuação passou a envolver outras camadas do desenvolvimento. Hoje trabalho também com **Back-End, APIs, bancos de dados, processamento assíncrono, containers, infraestrutura, Cloud, CI/CD, integrações, automações e Inteligência Artificial**.
 
-No dia a dia transito entre código e infraestrutura: desenvolvo novas funcionalidades, estruturo APIs e serviços, integro sistemas, trabalho com bancos de dados, mantenho ambientes Linux e Docker, investigo problemas em produção e participo da configuração e manutenção da infraestrutura que sustenta as aplicações.
+No dia a dia transito entre código e infraestrutura: desenvolvo novas funcionalidades, estruturo APIs e serviços, integro sistemas, trabalho com bancos de dados, mantenho ambientes Linux e Docker, configuro pipelines de deploy e investigo problemas em produção.
 
-Também venho trabalhando com **LLMs e infraestrutura de IA local**, incluindo execução de modelos, servidores de inferência e integração dessas ferramentas ao fluxo de desenvolvimento.
+Também venho trabalhando com **LLMs e infraestrutura de IA local**, incluindo execução de modelos, servidores de inferência e integração dessas ferramentas aos ambientes e fluxos de desenvolvimento.
 
 ---
 
-## 🧰 Tecnologias
+# 🧰 Stack & Tecnologias
 
-### ⚛️ Front-End
+## ⚛️ Front-End
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,redux,tailwind,styledcomponents,html,css"/>
 </p>
 
-**Core**  
+### Core
+
 `React` `TypeScript` `JavaScript` `Next.js` `Vite`
 
-**State & Data**  
+### Estado & Data Fetching
+
 `TanStack Query` `Zustand` `Redux` `Context API`
 
-**Arquitetura**  
-`Feature-First` `Custom Hooks` `Componentização` `Design Systems`
+### Arquitetura
 
-**UI**  
-`Tailwind CSS` `Styled Components` `HTML` `CSS`
+`Feature-First Architecture` `Componentização` `Custom Hooks` `Design Systems` `Componentes reutilizáveis`
 
-### 🗺️ Maps & GIS
+### UI & Styling
 
-`Google Maps API` `Mapbox` `ArcGIS` `Leaflet`
+`Tailwind CSS` `Styled Components` `CSS` `HTML`
 
-Desenvolvimento de aplicações baseadas em mapas, geolocalização, markers, overlays, rotas, camadas e visualização de dados geográficos.
+### 🗺️ Mapas & Geolocalização
+
+`Google Maps API` `Mapbox` `ArcGIS` `Leaflet` `Geolocalização`
+
+Experiência no desenvolvimento de sistemas baseados em mapas e dados geográficos, incluindo integração de APIs, markers, overlays, rotas, camadas, geolocalização e visualização de informações geoespaciais.
 
 ---
 
-### ⚙️ Back-End
+## ⚙️ Back-End & APIs
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,django,fastapi,nodejs"/>
 </p>
 
-**Linguagens**  
+### Linguagens
+
 `Python` `Go / Golang` `JavaScript` `TypeScript`
 
-**Frameworks & ferramentas**  
+### Frameworks & Ecossistema
+
 `Django` `Django REST Framework` `FastAPI` `Gin` `GORM`
 
-**APIs & Arquitetura**  
-`REST APIs` `Webhooks` `Authentication` `Authorization`  
-`Middleware` `Services` `Repositories` `Background Jobs`
+### APIs & Serviços
+
+`REST APIs` `Webhooks` `Authentication` `Authorization` `Middlewares`
+
+`Background Jobs` `Integrações entre sistemas` `Integrações com serviços externos`
+
+### Arquitetura
+
+`Services` `Repositories` `ORMs` `APIs modulares` `Separação de responsabilidades`
+
+Desenvolvimento e manutenção de APIs e serviços responsáveis pela comunicação entre aplicações, processamento de dados, autenticação e integração com sistemas externos.
 
 ---
 
-### 🗄️ Dados & Processamento
+## 🗄️ Bancos de Dados & Processamento
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,redis"/>
 </p>
 
+### Bancos & ORMs
+
 `PostgreSQL` `Redis` `Django ORM` `SQLAlchemy` `GORM`
 
-`Celery` `Workers` `Queues` `Processamento assíncrono`
+### Processamento
+
+`Celery` `Workers` `Queues` `Background Jobs` `Processamento assíncrono`
+
+Experiência com persistência de dados, consultas, modelagem, processamento assíncrono e execução de tarefas através de filas e workers.
 
 ---
 
-### 🐳 DevOps & Infraestrutura
+## 🐳 DevOps & Infraestrutura
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,bash"/>
 </p>
 
@@ -100,43 +120,41 @@ Desenvolvimento de aplicações baseadas em mapas, geolocalização, markers, ov
 
 `GitHub Actions` `CI/CD` `Git` `SSH` `Teleport`
 
-Deploy, gerenciamento de containers, administração de servidores, troubleshooting, análise de logs e investigação de problemas em produção.
+Deploy e manutenção de aplicações, gerenciamento de containers, administração de servidores Linux, pipelines de CI/CD, análise de logs, troubleshooting e investigação de problemas em produção.
 
 ---
 
-### ☁️ Cloud
+## ☁️ Cloud & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=oracle"/>
-</p>
-
-**Oracle Cloud Infrastructure (OCI)**
+Atuação com **Oracle Cloud Infrastructure (OCI)** na configuração, publicação e manutenção de aplicações e serviços em Cloud.
 
 `Compute` `Object Storage` `API Gateway` `IAM` `Networking` `Cloud Databases`
 
----
-
-### 🔄 Automação & Integrações
-
-`n8n` `Webhooks` `REST APIs` `Jobs` `Workflows`
-
-Integração entre sistemas, automação de processos e comunicação entre serviços.
+Experiência com configuração de redes, controle de acesso, armazenamento de objetos, exposição de APIs, bancos de dados e administração de ambientes de aplicação em Cloud.
 
 ---
 
-### 🤖 IA & LLMs
+## 🔄 Automação & Integrações
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nvidia"/>
-</p>
+`n8n` `Webhooks` `REST APIs` `Jobs` `Workflows` `Integrações entre sistemas`
+
+Desenvolvimento de integrações e automações para conectar aplicações, serviços e processos internos.
+
+Experiência com fluxos automatizados, consumo e exposição de APIs, webhooks, processamento de eventos e comunicação entre serviços.
+
+---
+
+## 🤖 IA, LLMs & Local AI
 
 `LLMs` `Ollama` `vLLM` `Open WebUI` `NVIDIA DGX Spark`
 
-Execução local de modelos, servidores de inferência e infraestrutura para desenvolvimento e integração com LLMs.
+Trabalho com infraestrutura voltada à execução e integração de **modelos de linguagem locais**.
+
+Experiência com execução de modelos, servidores de inferência, gerenciamento de modelos e integração de LLMs com ferramentas e ambientes de desenvolvimento.
 
 ---
 
-## 📊 GitHub
+# 📊 GitHub Activity
 
 <p align="center">
   <img
@@ -145,44 +163,36 @@ Execução local de modelos, servidores de inferência e infraestrutura para des
   />
 </p>
 
-<br/>
-
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucazz7&theme=github_dark"
-    width="90%"
-    alt="GitHub Activity"
+    width="95%"
+    alt="GitHub Profile Summary"
   />
 </p>
 
 ---
 
-## 🐍 Contributions
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Lucazz7/Lucazz7/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Lucazz7/Lucazz7/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/Lucazz7/Lucazz7/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
+### 🚀 Building from interface to infrastructure
 
----
+**Front-End** • **Back-End** • **APIs** • **Cloud** • **DevOps** • **Automation** • **AI**
 
-<p align="center">
-  <b>Software Engineer • Full Stack Developer</b>
-</p>
+<br>
 
-<p align="center">
-  React • TypeScript • Python • Go • PostgreSQL • Docker • OCI
-</p>
+`React` • `TypeScript` • `Python` • `Go` • `PostgreSQL` • `Docker` • `Linux` • `OCI`
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/lucazz7/">
+  <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Carlos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Lucazz7">
+  <img src="https://img.shields.io/badge/GitHub-Lucazz7-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
